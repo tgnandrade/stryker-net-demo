@@ -1,5 +1,4 @@
-# stryker-net-demo
-Testes de Mutação com [Stryker.NET](https://stryker-mutator.io/stryker-net/)
+# Testes de Mutação com [Stryker.NET](https://stryker-mutator.io/stryker-net/)
 
 Para instalar globalmente o [Stryker.NET](https://github.com/stryker-mutator/stryker-net), basta rodar:
 
